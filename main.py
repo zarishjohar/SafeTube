@@ -31,8 +31,8 @@ st.markdown(
 )
 
 # 🌟 Title & Islamic Message
-st.title("📺 SafeTube – Ethical Video Search Engine")st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bismillah.svg/1280px-Bismillah.svg.png", width=400)
-
+st.title("📺 SafeTube – Ethical Video Search Engine") 
+st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bismillah.svg/1280px-Bismillah.svg.png", width=400)
 st.markdown("**Guard your eyes and heart.** Allah says in the Quran:")
 st.success("**“Indeed, hearing, sight and the heart – all those will be questioned.”** (Surah Al-Isra 17:36)")
 
